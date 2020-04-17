@@ -1,61 +1,14 @@
 
-
-
+#wihtepaper
 BitSilver
-白皮书
+(BTR)
 
-
-
-构建面向未来的全球白银价值交易中心
-重塑世界经济格局
-Contents
-Preface	4
-Foreword	1
-Project Introduction	4
-Project Philosophy	6
-Design Philosophy	8
-Chapter I. Pain-points of Global Silver Market and Birth of BitSilver	10
-1.1 A Brief History of Silver	10
-1.2 Modern Silver Market	12
-1.2.1 Investment-grade Physical Silver	12
-1.2.2 Challenges in Today’s Silver Market	13
-1.3 Blockchain Will Subvert the Traditional Financial Industry	15
-1.4 BitSilver Was Born at the Right Moment	17
-Chapter II. Project Introduction of BitSilver	19
-2.1 What is BitSilver？	19
-2.2 Usage of BitSilver	21
-2.3 Vision of BitSilver	22
-Chapter III. Technology Innovation System of BitSilver	24
-3.1 Top Technical Architecture of BitSilver	24
-3.1.1 Data Layer of BitSilver	24
-3.1.2 Network Layer of BitSilver	25
-3.1.3 Consensus Layer of BitSilver	25
-3.1.4 Incentive Layer of BitSilver	26
-3.1.5 Contract Layer of BitSilver	26
-3.1.6 Application Layer of BitSilver	27
-3.2 Underlying Technology of BitSilver	29
-3.2.1 Transaction	29
-3.2.2 Time Stamp Server	30
-3.2.3 PoW (Proof-of-Work)	30
-3.2.4 Network	31
-3.2.5 Incentives	32
-3.2.6 Recycle of Hard-disc Space	32
-3.2.7 Simplified Payment Verification	33
-3.2.8 Combining and Splitting Value	35
-3.2.9 Privacy	35
-3.2.10 Calculation	36
-Chapter IV. Economic Model of BitSilver	40
-4.1 Introduction to BitSilver	40
-4.2 Property of BitSilver	41
-4.3 Decentralized Self-governed Community	42
-序
 
 Foreword
 Today, human wealth is supervised and controlled by third-party organizations. People cannot truly be free, and can’t avoid the situation that assets are frozen at any time. Silver has historically played an important role in the global financial system. Due to its scarce quantity, stable chemical properties, strong plasticity and attractive appearance, silver is recognized as very valuable. Silver has been used to store value for thousands of years and it is still very popular now. More than $50 billion worth of silver is traded daily through exchange-traded fund derivatives and physical markets. However, silver has high storage costs, division difficulty, mobility inconvenience, and transaction or utilization difficulty. Currently, there are no investment-grade physical silver products that can be easily owned and traded
 We hope that everyone can be free and move towards a better life. In this white paper, we designed a decentralized distributed ledger system for the global silver market regulation, so that ordinary people may easily own and trade investment-grade physical silver products. This project is named BitSilver. This paper will discuss how to create a decentralized consensus ecological network based on the silver market from the perspectives of design and basic information
 By utilizing the technical characteristics of blockchain, BitSilver ecology has built the first truly fair and decentralized ecological network for human beings, so that human assets will not be supervised and controlled by third parties. As long as the users own BitSilver, they can access all the life services in the BitSilver ecosystem.
 We have created the most convenient way for people, so that they can obtain, own, trade or lend the investment-grade physical silver that is stored in the treasury in an affordable way, without worrying about the cost, inconvenience and security of their physical storage. In addition, the BitSilver ecosystem will increase the liquidity and popularity of silver across the world.
-
 
 
 
@@ -72,7 +25,6 @@ The future society will be an entirety linked by blockchain. As a certain produc
 Design Philosophy
 
 In the BitSilver LOGO, the inner circle represents the transaction market, the outer circle represents the charming Earth, the gimmick symbol represents mining, and the outer circle scale represents the spatial-temporal tunnel. Besides, the logo is combined with the grayish silver luster and the letter R, a silver symbol. BitSilver is a journey of time and space of the soul, which awakens human’s subconsciousness, makes people concentrate on it and realizes the freedom and eternity of life. It represents a silver-based order that opens up an infinitely possible future and leads global practitioners into a higher-level form of collaboration.
-
 
 
 Chapter I. Pain-points of Global Silver Market and Birth of BitSilver
